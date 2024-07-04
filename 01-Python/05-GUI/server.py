@@ -2,7 +2,7 @@ import socket
 import threading
 import time
 
-host = "192.168.1.4"
+host = "" #add your ip
 port = 5000
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((host, port))
