@@ -1,0 +1,3 @@
+the function in left hand side because it returns a reference to variable and then assign this variable.
+if static is removed then the variable no longer exists after excuting the function leaving compiler error.
+if & is removed compiler error because the function on left hand side.
