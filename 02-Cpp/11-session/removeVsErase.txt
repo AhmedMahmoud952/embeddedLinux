@@ -1,0 +1,3 @@
+earse : used for clearing the element and resizing the given list.
+remove : repositing the element to the end of the list and moving the .end pointer hence
+        no real resizing happens.
